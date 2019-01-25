@@ -8,6 +8,7 @@ source ~/.virtualenvs/djangodev/bin/activate
 3. save a sample report file in "/root/depot/report.txt"
 
 4. uncompress the project : hayder.tar
+
 tar -xvf hayder.tar
 
 5. cd hayder
